@@ -1,2 +1,3 @@
 # vemakumar
-This is my fit git
+This is my fit git repository
+author - vemakumar
